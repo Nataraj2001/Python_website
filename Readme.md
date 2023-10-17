@@ -11,3 +11,6 @@ Explore future renewable energy scenarios
 Coordinate applicants and lenders
 
 ![image](https://github.com/Nataraj2001/Python_website/assets/106070514/4491306a-1ec5-4151-ad4a-4eb598593609)
+
+![image](https://github.com/Nataraj2001/Python_website/assets/106070514/c433f759-9753-4f29-9e66-25592c45d046)
+
